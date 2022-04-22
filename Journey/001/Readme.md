@@ -21,4 +21,4 @@
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[https://www.linkedin.com/posts/seventh-letterman-216857180_day1-of-100daysofcloud-created-repo-on-github-activity-6923360395826991104-sH-N?utm_source=linkedin_share&utm_medium=member_desktop_web](link)
