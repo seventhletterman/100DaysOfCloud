@@ -6,12 +6,11 @@
 # The Journey Begins
 
 ## Introduction
-
-✍️ (Why) Get to use the cloud in more real world situations.
+- Get to use the cloud in more real world situations.
 
 ## Use Case
 
-- ✍️ (Show-Me) Learn use of the various tools used together than learning each as standalone.
+- Learn use of the various tools used together than learning each as standalone.
 
 ## Cloud Research
 
@@ -19,6 +18,4 @@
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[https://www.linkedin.com/posts/seventh-letterman-216857180_day1-of-100daysofcloud-created-repo-on-github-activity-6923360395826991104-sH-N?utm_source=linkedin_share&utm_medium=member_desktop_web](link)
+[Link](https://www.linkedin.com/posts/seventh-letterman-216857180_day1-of-100daysofcloud-created-repo-on-github-activity-6923360395826991104-sH-N?utm_source=linkedin_share&utm_medium=member_desktop_web)
